@@ -1,0 +1,14 @@
+body {
+    background-color: #9e5757;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    max-width: 50%;
+    height: 50%;
+}
+
